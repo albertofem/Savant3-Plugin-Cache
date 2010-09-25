@@ -4,9 +4,8 @@
 * 
 * Plugin for caching template output to a file.
 * @package Savant3
-* @author Alberto Fernández <afm.work@gmail.com>
+* @author Alberto Fernández <albertofem@gmail.com>
 * @license http://www.gnu.org/copyleft/lesser.html LGPL
-* @version $Id: Savant3_Plugin_cache.php 1817 2010-07-06 07:23:16Z admin $
 *
 */
 
