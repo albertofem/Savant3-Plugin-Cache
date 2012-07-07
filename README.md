@@ -23,7 +23,7 @@ Use 'cache' magic method instead of Savant3's display:
 
     $tpl->cache('books.tpl.php');
 
-A working example is in 'tests' folder.
+A working example is under `tests`
 
 Configuration
 -------------
