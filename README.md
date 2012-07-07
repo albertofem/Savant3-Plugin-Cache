@@ -3,6 +3,11 @@ Savant3-Plugin-Cache
 
 A simple cache plugin to store compiled templates in disk
 
+Installation
+------------
+
+Put `src/Savant3_Plugin_cache.php` under Savant3 plugin directory `Savant3/resources`
+
 Usage
 -----
 
