@@ -313,12 +313,4 @@ class Savant3_Plugin_cache extends Savant3_Plugin
 		
 		$this->cacheFilePathInfo = $pathinfo;
 	}
-
-	/**
-	 * @param string $cachePath
-	 */
-	public function setCachePath($cachePath)
-	{
-		$this->cachePath = $cachePath;
-	}
 }
